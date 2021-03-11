@@ -1,0 +1,2 @@
+﻿  basic_dump.c
+E:\dev\net-canvas\npcap-sdk-1.07\Examples-pcap\basic_dump\basic_dump.c(133,32): warning C4047: '=': 'tm *' differs in levels of indirection from 'int'
